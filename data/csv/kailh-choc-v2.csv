@@ -1,44 +1,51 @@
-pic,vendor,Series,Name,Type,"Operating 
-Force",Tactile Force,Pre-Travel,Total Travel
-,,Kailh,Blue,Click Tactile,55gf±10gf,60gf ±10gf,1.3mm±0.3mm,3.2mm±0.25mm
-,,Kailh,Red,Linear,50gf±10gf,,1.3mm±0.3mm,3.2mm±0.25mm
-,,Kailh,Brown,Tactile,50gf±10gf,55gf ±10gf,1.3mm±0.3mm,3.2mm±0.25mm
-,,Kailh,Cream,Linear Silent,43gf±10gf,,1.2mm±0.3mm,2.8mm±0.5mm
-,,Kailh,Black,Tactile Silent,45gf±10gf,55gf ±10gf,1.3mm±0.3mm,2.8mm±0.5mm
-,,Four Seasons,Spring,Linear,40gf±10gf,,1.2mm±0.3mm,2.8mm±0.5mm
-,,Four Seasons,Summer,Clicky,50gf±15gf,55gf±10gf,1.2mm±0.3mm,2.8mm±0.5mm
-,,Four Seasons,Autumn,Clicky,40gf±15gf,45gf±10gf,1.2mm±0.3mm,2.8mm±0.5mm
-,,Four Seasons,Winter,Tactile,38gf±15gf,50gf±10gf,1.6mm±0.3mm,2.8mm±0.5mm
-,,Lofree Shadow,Ghost,Linear,50gf±10gf,,1.2mm±0.3mm,2.8mm±0.25mm
-,,Lofree Shadow,Phantom,Tactile,45gf±10gf,55gf±10gf,1.6mm±0.3mm,2.8mm±0.25mm
-,,Lofree Shadow,Wizard,Clicky,50gf±10gf,55gf±10gf,1.2mm±0.3mm,2.8mm±0.25mm
-,,Lofree,Surfer,Linear,40gf±10gf,,1.3mm±0.3mm,2.8mm±0.25mm
-,,Lofree,Void,Linear Silent,40gf±10gf,,1.3mm±0.3mm,2.8mm±0.25mm
-,,Lofree,Pulse,Tactile,40gf±10gf,???,1.6mm±0.3mm,2.8mm±0.25mm
-,,Lofree,Specter,Linear,40gf±10gf,,1.2mm±0.3mm,2.8mm±0.25mm
-,,Lofree,Hades,Linear,40gf±10gf,,1.3mm±0.3mm,2.8mm±0.25mm
-,,Raptor,Black,Linear Silent,40gf±10gf,,1.2mm±0.3mm,1.8mm±0.3mm
-,,Raptor,Purple Iris,Linear Silent,30gf±10gf,,0.8mm±0.3mm,1.8mm±0.3mm
-,,Raptor,Saker mini,Linear,37gf±10gf,,0.8mm±0.3mm,1.8mm±0.3mm
-,,Deep Sea,Islet Pink,Linear Silent,35gf±10gf,,1.3mm±0.3mm,2.8mm±0.25mm
-,,Deep Sea,Island,Linear Silent,43gf±10gf,,1.3mm±0.3mm,2.8mm±0.25mm
-,,Deep Sea,Whale,Tactile Silent,45gf±10gf,55gf±10gf,1.3mm±0.3mm,2.8mm±0.25mm
-,,Haute42,Wind Engine,Linear,43gf±10gf,,1.2mm±0.3mm,2.8mm±0.25mm
-,,Haute42,Crystal,Linear,43gf±10gf,,1.2mm±0.3mm,3.2mm±0.25mm
-,,Haute42,Shadow Hunting,Linear Silent,40gf±10gf,,0.8mm±0.3mm,2.8mm±0.25mm
-,,The Elements,White Rain,Linear,50gf±10gf,,1.2mm±0.3mm,2.8mm±0.25mm
-,,The Elements,Black Cloud,Tactile,45gf±10gf,55gf±10gf,1.6mm±0.3mm,2.8mm±0.25mm
-,,The Elements,Hide Mountain,Clicky,50gf±10gf,55gf±10gf,1.2mm±0.3mm,2.8mm±0.25mm
-,,Ice Cream,Ice Cream,Linear,40gf±8gf,,1.2mm±0.3mm,2.8mm±0.25mm
-,,Ice Cream,Taro,Linear,37gf±10gf,,1.2mm±0.3mm,2.8mm±0.25mm
-,,SGF,ChimPOMzee Red,Linear Silent,50gf±15gf,,1.2mm±0.3mm,2.8mm±0.25mm
-,,SGF,ChimPOMzee Brown,Tactile Silent,45gf±15gf,55gf±15gf,1.6mm±0.3mm,2.8mm±0.25mm
-,,Panda Axis,V1,Linear Silent,30gf±10gf,,1.2mm±0.3mm,2.8mm±0.25mm
-,,Panda Axis,V2,Tactile Silent,40gf±10gf,,0.8mm±0.3mm,2.8mm±0.25mm
-,,Comic Noise,Silent Linear,Linear Silent,43gf±10gf,,1.2mm±0.3mm,2.8mm±0.25mm
-,,Comic Noise,Silent Tactile,Tactile Silent,55gf±10gf,???,1.2mm±0.3mm,2.8mm±0.25mm
-,,Comic Noise,Kominoi Saiya,Linear,30g±10gf,,1.2mm±0.3mm,2.8mm±0.25mm
-,,Comic Noise,Kominoi Saiya Silent,Linear Silent,30g±10gf,,1.2mm±0.3mm,2.8mm±0.25mm
-,,Fruit,Durian,Linear,40gf±10gf,,1.2mm±0.3mm,2.8mm±0.25mm
-,,Fruit,White Peach,Tactile,50gf±10gf,,1.6mm±0.3mm,2.8mm±0.25mm
-,,Fruit,Avocado,Clicky,45gf±10gf,,1.2mm±0.3mm,2.8mm±0.25mm
+pic,vendor,Series,Name,Type,Operating Force,Tactile Force,Pre-Travel,Total Travel,,
+kailh/choc-v2/PG1353_choc_v2_blue.webp,Kailh,,Blue,Click Tactile,55gf±10gf,60gf ±10gf,1.3mm±0.3mm,3.2mm±0.25mm,,
+kailh/choc-v2/PG1353_choc_v2_red.webp,Kailh,,Red,Linear,50gf±10gf,,1.3mm±0.3mm,3.2mm±0.25mm,,
+kailh/choc-v2/PG1353_choc_v2_brown.webp,Kailh,,Brown,Tactile,50gf±10gf,55gf ±10gf,1.3mm±0.3mm,3.2mm±0.25mm,,
+kailh/choc-v2/PG1353_choc_v2_cream.webp,Kailh,,Cream,Linear Silent,43gf±10gf,,1.2mm±0.3mm,2.8mm±0.5mm,,
+kailh/choc-v2/PG1353_choc_v2_black.webp,Kailh,,Black,Tactile Silent,45gf±10gf,55gf ±10gf,1.3mm±0.3mm,2.8mm±0.5mm,,
+kailh/choc-v2/PG1353_choc_v2_four_seasons_spring.webp,Four Seasons,,Spring,Linear,40gf±10gf,,1.2mm±0.3mm,2.8mm±0.5mm,,
+kailh/choc-v2/PG1353_choc_v2_four_seasons_summer.webp,Four Seasons,,Summer,Clicky,50gf±15gf,55gf±10gf,1.2mm±0.3mm,2.8mm±0.5mm,,
+kailh/choc-v2/PG1353_choc_v2_four_seasons_autumn.webp,Four Seasons,,Autumn,Clicky,40gf±15gf,45gf±10gf,1.2mm±0.3mm,2.8mm±0.5mm,,
+kailh/choc-v2/PG1353_choc_v2_four_seasons_winter.webp,Four Seasons,,Winter,Tactile,38gf±15gf,50gf±10gf,1.6mm±0.3mm,2.8mm±0.5mm,,
+kailh/choc-v2/PG1353_choc_v2_lofree_shadow_ghost.webp,Lofree Shadow,,Ghost,Linear,50gf±10gf,,1.2mm±0.3mm,2.8mm±0.25mm,,
+kailh/choc-v2/PG1353_choc_v2_lofree_shadow_phantom.webp,Lofree Shadow,,Phantom,Tactile,45gf±10gf,55gf±10gf,1.6mm±0.3mm,2.8mm±0.25mm,,
+kailh/choc-v2/PG1353_choc_v2_lofree_shadow_wizard.webp,Lofree Shadow,,Wizard,Clicky,50gf±10gf,55gf±10gf,1.2mm±0.3mm,2.8mm±0.25mm,,
+kailh/choc-v2/PG1353_choc_v2_lofree_surfer.webp,Lofree,,Surfer,Linear,40gf±10gf,,1.3mm±0.3mm,2.8mm±0.25mm,,
+kailh/choc-v2/PG1353_choc_v2_lofree_void.webp,Lofree,,Void,Linear Silent,40gf±10gf,,1.3mm±0.3mm,2.8mm±0.25mm,,
+kailh/choc-v2/PG1353_choc_v2_lofree_pulse.webp,Lofree,,Pulse,Tactile,40gf±10gf,???,1.6mm±0.3mm,2.8mm±0.25mm,,
+kailh/choc-v2/PG1353_choc_v2_lofree_specter.webp,Lofree,,Specter,Linear,40gf±10gf,,1.2mm±0.3mm,2.8mm±0.25mm,,
+kailh/choc-v2/PG1353_choc_v2_lofree_hades.webp,Lofree,,Hades,Linear,40gf±10gf,,1.3mm±0.3mm,2.8mm±0.25mm,,
+kailh/choc-v2/PG1353_choc_v2_raptor_black_kite.png,Raptor,,Black Kite,Linear Silent,40gf±10gf,,1.2mm±0.3mm,1.8mm±0.3mm,,
+kailh/choc-v2/PG1353_choc_v2_raptor_purple_iris.webp,Raptor,,Purple Iris,Linear Silent,30gf±10gf,,0.8mm±0.3mm,1.8mm±0.3mm,,
+kailh/choc-v2/PG1353_choc_v2_raptor_saker_mini.png,Raptor,,Saker mini,Linear,37gf±10gf,,0.8mm±0.3mm,1.8mm±0.3mm,,
+kailh/choc-v2/PG1353_choc_v2_deep_sea_islet_pink.webp,Deep Sea,,Islet Pink,Linear Silent,35gf±10gf,,1.3mm±0.3mm,2.8mm±0.25mm,,
+kailh/choc-v2/PG1353_choc_v2_deep_sea_island.webp,Deep Sea,,Island,Linear Silent,43gf±10gf,,1.3mm±0.3mm,2.8mm±0.25mm,,
+kailh/choc-v2/PG1353_choc_v2_deep_sea_whale.webp,Deep Sea,,Whale,Tactile Silent,45gf±10gf,55gf±10gf,1.3mm±0.3mm,2.8mm±0.25mm,,
+kailh/choc-v2/PG1353_choc_v2_haute42_wind_engine.webp,Haute42,,Wind Engine,Linear,43gf±10gf,,1.2mm±0.3mm,2.8mm±0.25mm,,
+kailh/choc-v2/PG1353_choc_v2_haute42_crystal.webp,Haute42,,Crystal,Linear,43gf±10gf,,1.2mm±0.3mm,3.2mm±0.25mm,,
+kailh/choc-v2/PG1353_choc_v2_haute42_shadow_hunting.webp,Haute42,,Shadow Hunting,Linear Silent,40gf±10gf,,0.8mm±0.3mm,2.8mm±0.25mm,,
+kailh/choc-v2/PG1353_choc_v2_the_elements_white_rain.webp,The Elements,,White Rain,Linear,50gf±10gf,,1.2mm±0.3mm,2.8mm±0.25mm,,
+kailh/choc-v2/PG1353_choc_v2_the_elements_black_cloud.webp,The Elements,,Black Cloud,Tactile,45gf±10gf,55gf±10gf,1.6mm±0.3mm,2.8mm±0.25mm,,
+kailh/choc-v2/PG1353_choc_v2_the_elements_hide_mountain.webp,The Elements,,Hide Mountain,Clicky,50gf±10gf,55gf±10gf,1.2mm±0.3mm,2.8mm±0.25mm,,
+kailh/choc-v2/PG1353_choc_v2_ice_cream_ice_cream.webp,Ice Cream,,Ice Cream,Linear,40gf±8gf,,1.2mm±0.3mm,2.8mm±0.25mm,,
+kailh/choc-v2/PG1353_choc_v2_ice_cream_taro.webp,Ice Cream,,Taro,Linear,37gf±10gf,,1.2mm±0.3mm,2.8mm±0.25mm,,
+,SGF,,ChimPOMzee Red,Linear Silent,50gf±15gf,,1.2mm±0.3mm,2.8mm±0.25mm,,
+,SGF,,ChimPOMzee Brown,Tactile Silent,45gf±15gf,55gf±15gf,1.6mm±0.3mm,2.8mm±0.25mm,,
+,Tikitaka,,Panda Axis V1,Linear Silent,30gf±10gf,,1.2mm±0.3mm,2.8mm±0.25mm,,
+,Tikitaka,,Panda Axis V2,Tactile Silent,40gf±10gf,,0.8mm±0.3mm,2.8mm±0.25mm,,
+,Comic Noise,,Silent Linear,Linear Silent,43gf±10gf,,1.2mm±0.3mm,2.8mm±0.25mm,,
+,Comic Noise,,Silent Tactile,Tactile Silent,55gf±10gf,???,1.2mm±0.3mm,2.8mm±0.25mm,,
+,Comic Noise,,Kominoi Saiya,Linear,30g±10gf,,1.2mm±0.3mm,2.8mm±0.25mm,,
+,Comic Noise,,Kominoi Saiya Silent,Linear Silent,30g±10gf,,1.2mm±0.3mm,2.8mm±0.25mm,,
+,Fruit,,Durian,Linear,40gf±10gf,,1.2mm±0.3mm,2.8mm±0.25mm,,
+,Fruit,,White Peach,Tactile,50gf±10gf,,1.6mm±0.3mm,2.8mm±0.25mm,,
+,Fruit,,Avocado,Clicky,45gf±10gf,,1.2mm±0.3mm,2.8mm±0.25mm,,
+,Ghost,,Blood Amber,Linear,40gf±10gf,,0.8mm±0.3mm,1.9mm±0.3mm,,
+,RGB Crystal,,Clicky Jellyfish ,Clicky,55gf±10gf,55gf±15gf,1.2mm±0.3mm,2.8mm±0.25mm,,
+,RGB Crystal,,Linear Jellyfish ,Linear,43gf±10gf,,1.2mm±0.3mm,3.2mm±0.25mm,,
+,Israfel N²,,Depth Charge,Linear,50gf±10gf,,1.2mm±0.3mm,2.8mm±0.25mm,,
+,Israfel N²,,Land Mine,Tactile,45gf±10gf,50gf±10gf,1.6mm±0.3mm,2.8mm±0.25mm,,
+,Kailh,,Sunlight Sunshine,Linear,50gf±10gf,,1.2mm±0.3mm,2.8mm±0.25mm,,
+,Iqunix,,Gold Red,Linear,40gf±10gf,,,,,
+,Kailh,,Glacial Silver,Linear,40gf±10gf,,0.8mm±0.3mm,2.0mm±0.3mm,,
