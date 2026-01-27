@@ -8,9 +8,15 @@ npm run dev
 
 ## Deploy
 
+### Manual Deploy
 ```bash
 npm run deploy
 ```
+
+### Automatic Deploy
+This repository uses GitHub Actions to automatically build and deploy changes.
+- Pushing to the `main` branch triggers a new deployment to `gh-pages`.
+- Ensure GitHub Actions are enabled in your repository settings.
 
 ## Add New Data
 
@@ -53,3 +59,17 @@ If you want to add a column with links:
 1.  Ensure your CSV has a column named `link` or `links`.
 2.  Put the full URL (e.g., `https://example.com`) in the cell.
 3.  It will be rendered as a clickable link in the table.
+
+## Contributing
+
+We welcome contributions from the community! Whether you have new keyboard switch data, corrections for existing records, or feature improvements, your help is appreciated.
+
+- **Found a bug or have a suggestion?** Please open an [Issue](https://github.com/aroum/aroum.github.io/issues).
+- **Want to add data directly?** Feel free to fork the repository, add your CSV files (following the guide above), and submit a **Pull Request**.
+
+## Acknowledgements
+
+Special thanks to the following community members who helped collect data, verify information, and improve this project:
+
+- [@krikun98](github.com/krikun98/)
+- [@psswhite](github.com/psswhite/)
