@@ -1,0 +1,31 @@
+pic,stem color,type,LED,Action,Model, original product code, replacement product code, gen, force 1, force 2
+ ,White,locking,,Alternative,,B3G-S300?,"Not replaced; 特殊対応 ""Special handling""",1,~,~
+ ,Amber, clicky,,Momentary,,,,2,,
+ ,Amber-red, clicky,,Momentary,,,,2,,
+ ,Amber, linear,,Momentary,,,,?,,
+ ,Cyan, Clicky,,Momentary,,,,2,,
+ ,White, linear,,Momentary,,B3G-S100,B3G-S100N	,2,,
+ ,White, tactile,,Momentary,,B3G-S100,B3G-S100N	,2,,
+ ,White, clicky,,Momentary,,B3G-S100,B3G-S100N	,2,,
+,White,Linear,None,Momentary,B3G-S100,,B3G-S100N,,40±10 gf,50±15 gf
+,White,Linear,Red,Momentary,B3G-S110,,,,40±10 gf,50±15 gf
+,White,Linear,Green,Momentary,B3G-S120,,,,40±10 gf,50±15 gf
+,,Linear,None,Momentary,B3G-S200,,B3G-S200N,,60±15 gf,70±15 gf
+,,Linear,Red,Momentary,B3G-S210,,,,60±15 gf,70±15 gf
+,,Linear,Green,Momentary,B3G-S220,,,,60±15 gf,70±15 gf
+,,locking,None,Alternative,B3G-S300,,"Not replaced; 特殊対応 ""Special handling""",,,
+,,locking,Red,Alternative,B3G-S310,,,,,
+,,locking,Green,Alternative,B3G-S320,,,,,
+,,Tactile,None,Momentary,B3G-S400,,B3G-S400N,,60±15 gf,60±15 gf
+,,Tactile,Red,Momentary,B3G-S410,,,,60±15 gf,60±15 gf
+,,Tactile,Green,Momentary,B3G-S420,,,,60±15 gf,60±15 gf
+,,Tactile,None,Momentary,B3G-S500,,"Not replaced; 代替機種なし ""No alternative model""",,,
+,,Tactile,Red,Momentary,B3G-S510,,,,,
+,,Tactile,Green,Momentary,B3G-S520,,,,,
+,Amber, clicky,None,Momentary,B3G-S600,,B3G-S600N,,,
+,Amber, clicky,Red,Momentary,B3G-S610,,,,,
+,Amber, clicky,Green,Momentary,B3G-S620,,,,,
+,Amber-red, clicky,None,Momentary,B3G-S700,,B3G-S700N,,,
+,Amber-red, clicky,Red,Momentary,B3G-S710,,,,,
+,Amber-red, clicky,Green,Momentary,B3G-S720,,,,,
+,,,,,,,,,,

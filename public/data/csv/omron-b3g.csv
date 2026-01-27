@@ -1,0 +1,10 @@
+pic,stem color,type,LED,Action,Model, original product code, replacement product code, gen, force 1, force 2
+,,,None,Momentary,B3G-1000,B3G-1000M,-,,40±10 gf,60±10 gf
+,,,Red,Momentary,B3G-1100,B3G-1100G,-,,40±10 gf,60±10 gf
+,,,Green,Momentary,B3G-1200,B3G-1200C,-,,40±10 gf,60±10 gf
+,,,None,Momentary,B3G-2000,B3G-2000F,-,,55±10 gf,80±10 gf
+,,,Red,Momentary,B3G-2100,B3G-2100B,-,,55±10 gf,80±10 gf
+,,,Green,Momentary,B3G-2200,B3G-2200R,-,,55±10 gf,80±10 gf
+,,,None,Alternative,B3G-3000,B3G-3000A,-,,55±10 gf,80±10 gf
+,,,Red,Alternative,B3G-3100,B3G-3100H,-,,55±10 gf,80±10 gf
+,,,Green,Alternative,B3G-3200,B3G-3200D,-,,55±10 gf,80±10 gf

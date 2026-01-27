@@ -1,0 +1,57 @@
+pic,color,action,head,eye count,"eye shape","logo",housing shape,mark,notes
+725/Beige_tactile_1.jpg,Beige,tactile,Jet Stream,1,sq,logo 1,h1,no,
+725/Black_linear_1.jpg,Black,linear,Gundam,1,"round",logo 1,h1,no,Gundam style and thus presumably the original design
+725/Black_locking_6.jpg,Black,locking,Gundam,1,round centr,logo 1,h1,no,
+725/Black_locking_7.jpg,Black,locking,Jet Stream,1,sq,logo 1,h1,no,Gundam style and thus presumably the earliest latching action switch
+725/Brown_tactile_1.jpg,Brown,tactile,Jet Stream,1,sq,logo 1,h1,no,
+725/Cream_tactile_1.jpg,Cream,tactile,Jet Stream,1,sq,logo 1,h1,no,
+725/Cream_tactile_2.jpg,Cream,tactile,Jet Stream,1,sq,logo 1,h1,no,
+725/Grey_linear_1.jpg,Grey,linear,Jet Stream,1,round,logo 1,h1,no,
+725/Grey_linear_2.jpg,Grey,linear,Jet Stream,1,sq,logo 1,h1,no,
+725/Neon_Green_linear_1.jpg,Neon Green,linear,Jet Stream,1,sq,logo 1,h1,no,Used as space bar switch on linear and tactile boards
+725/Orange_tactile_1.jpg,Orange,tactile,Godwin,1,sq,logo 2,h3,no,
+725/Orange_tactile_2.jpg,Orange,tactile,Godwin,1,sq,logo 2,h4,no,Same as purple but tactile
+725/Pink_tactile.jpg,Pink,tactile,Godwin,1,sq,logo 2,h3,no,
+725/Powder_Blue_linear_1.jpg,Powder Blue,linear,Jet Stream,1,sq,logo 1,h1,no,
+725/Purple_linear.jpg,Purple,linear,Godwin,1,sq,logo 2,h3,no,"With two LED holes; the slider is tapered to accommodate the LEDs and has only one rear keycap mount recess"
+725/White_linear_1.jpg,White,linear,Gundam,1,"round",logo 1,h1,no,Original design as depicted on the patent
+725/White_linear_2.jpg,White,linear,Jet Stream,1,sq,logo 1,h1,no,Later design
+725/White_linear_7.jpg,White,linear,Godwin,1,sq,logo 1,h3,no,
+725/White_linear_10.jpeg,White,linear,Jet Stream,1,sq,logo 2,h1,no,
+725/White_linear_12.jpg,White,linear,Jet Stream,1,sq,logo 1,h1,yes,"White switch used for space bars with the slider marked with a dot as seen on the Kroy 190 keyboard, presumably with a longer spring to increase resistance"
+725/White_linear_13.jpg,White,linear,Gundam,1,round,logo 1,h1,no,Gundam style and thus presumably the original space bar switch
+725/Brown_tactile_2.jpg,Brown,tactile,Jet Stream,1,sq,logo 2,h2,no,
+725/Black_tactile_2.jpg,Black,tactile,Jet Stream,2,a1,logo 1,h1,no,
+725/Brown_clicky_4.jpg,Brown,clicky,Jet Stream,2,a1,logo 1,h2,no,Used as space bar switch on boards with powder blue switches
+725/Green_linear_1.jpg,Green,linear,Jet Stream,2,a3,logo 1,h1,no,
+725/Grey_linear_3.jpg,Grey,linear,Jet Stream,2,a1,logo 1,h1,no,
+725/Grey_linear_6.jpg,Grey,linear,Jet Stream,2,a1,logo 1,h1,yes,"Space bar switch with a dot mark and presumably a longer spring to increase resistance, as seen on e.g. the Hi-Tek 112980-005"
+725/Grey_tactile_4.jpg,Grey,tactile,Jet Stream,2,a1,logo 1,h1,no,
+725/Grey_tactile_5.jpg,Grey,tactile,Jet Stream,2,a3,logo 1,h1,no,
+725/Neon_Green_linear_2.jpg,Neon Green,linear,Jet Stream,2,a1,logo 1,h1,no,Used as space bar switch on linear and tactile boards
+725/Neon_Green_linear_3.jpg,Neon Green,linear,Jet Stream,2,a3,logo 2,h1,no,Used as space bar switch on linear and tactile boards
+725/Sea_Green_linear.jpg,Sea Green,linear,Jet Stream,2,a2,logo 1,h2,no,"Purpose unknown, probably another space bar switch"
+725/White_linear_3.jpg,White,linear,Jet Stream,2,a1,logo 1,h1,no,
+725/White_linear_5.jpg,White,linear,Jet Stream,2,a3,logo 1,h1,no,
+725/White_linear_11.jpg,White,linear,Jet Stream,2,"a1",logo 2,h1,no,
+725/Yellow_linear_.jpg,Yellow,linear,Jet Stream,2,a1,logo 1,h1,no,Reported to be slightly lighter weight than white
+725/White_linear_14.jpg,White,clicky,Jet Stream,2,a2,no,h2,yes,mark space bar switch
+725/Black_clicky.jpg,Black,clicky,Jet Stream,2,a2,no,h2,no,
+725/Black_clicky_0.jpg,Black,clicky,Jet Stream,2,a1,logo 1,h2,no,
+725/Black_clicky_3.jpg,Black,clicky,Jet Stream,2,a1,logo 1,h2,no,"45 g tactile force, 85 g terminal force"
+725/Black_clicky_4.jpg,Black,clicky,Jet Stream,2,a2,reverse,h2,no,
+725/Black_clicky_5.jpg,Black,clicky,Kapool,2,a1,reverse,h2,no,
+725/Black_clicky_19.jpg,Black,clicky,Jet Stream,2,a2,logo 1,h2,no,"45 g tactile force, 85 g terminal force"
+725/Black_clicky_123.jpg,Black,clicky,Jet Stream,2,a2,logo 1,h2,no,
+725/Blue_clicky_0.jpg,Blue,clicky,Jet Stream,2,a1,reverse,h2,no,Variant of neon blue
+725/Blue_clicky_1.jpg,Blue,clicky,Jet Stream,2,a1,logo 1,h2,no,
+725/Blue_clicky_2.jpg,Blue,clicky,Jet Stream,2,a2,logo 1,h2,no,
+725/Brown_clicky_3.jpg,Brown,clicky,Jet Stream,2,a1,reverse,h2,no,Variant of neon blue with 85 g tactile force and 100 g terminal force
+725/Green_linear_2.jpg,Green,linear,Jet Stream,2,a2,no,h2,no,
+725/Neon_Blue_clicky_1.jpg,Neon Blue,clicky,Jet Stream,2,a2,logo 1,h2,no,
+725/Neon_Blue_clicky_2.jpg,Neon Blue,clicky,Jet Stream,2,a2,no,h2,no,Used as space bar switch on clicky boards; it has a longer spring to increase resistance
+725/Powder_Blue_clicky_2.jpg,Powder Blue,clicky,Jet Stream,2,a1,logo 1,h2,no,
+725/White_clicky_8.jpg,White,clicky,Kapool,2,a1,logo 1,h2,no,
+725/White_clicky_9.jpg,White,clicky,Jet Stream,2,a2,no,h2,no,
+725/White_linear_6.jpg,White,linear,Jet Stream,2,a2,no,h2,no,
+725/White_linear_15.jpg,White,linear,Kapool,2,a1,logo 1,h2,yes,With tapered planform and LED holes

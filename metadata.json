@@ -1,0 +1,5 @@
+{
+  "name": "Custom Keyboard Data Explorer",
+  "description": "A lightweight, responsive React application to publish, visualize, and filter CSV datasets on GitHub Pages.",
+  "requestFramePermissions": []
+}
