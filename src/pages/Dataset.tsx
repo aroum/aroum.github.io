@@ -100,7 +100,7 @@ export const DatasetView: React.FC = () => {
     if (sortConfig.key === key && sortConfig.direction === 'asc') {
       direction = 'desc';
     } else if (sortConfig.key === key && sortConfig.direction === 'desc') {
-        direction = null; // Optional: 3rd state to clear sort
+      direction = null; // Optional: 3rd state to clear sort
     }
     setSortConfig({ key, direction });
   };
@@ -114,7 +114,7 @@ export const DatasetView: React.FC = () => {
   }
 
   return (
-    <main className="container mx-auto px-4 sm:px-6 lg:px-8 py-8 responsive-h-screen flex flex-col">
+    <main className="container mx-auto px-4 sm:px-6 lg:px-8 py-8 ">
       <div className="mb-4 shrink-0">
         <button
           onClick={() => navigate('/')}
@@ -168,13 +168,11 @@ export const DatasetView: React.FC = () => {
           </div>
         </div>
       ) : (
-        <div className="flex-1 min-h-0">
-          <DataTable
-            data={filteredAndSortedData}
-            sortConfig={sortConfig}
-            onSort={handleSort}
-          />
-        </div>
+        <DataTable
+          data={filteredAndSortedData}
+          sortConfig={sortConfig}
+          onSort={handleSort}
+        />
       )}
     </main>
   );

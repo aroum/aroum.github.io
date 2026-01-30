@@ -21,21 +21,4 @@
   .custom-scrollbar::-webkit-scrollbar-thumb {
     @apply bg-gray-300 dark:bg-gray-700 rounded-full hover:bg-gray-400 dark:hover:bg-gray-600;
   }
-
-  /* 
-   * Responsive height utility:
-   * - Default (mobile landscape/small screens): auto height (page scrolls), but at least full viewport
-   * - Tall screens (>600px): fixed height (internal scroll)
-   */
-  .responsive-h-screen {
-    height: auto;
-    min-height: calc(100dvh - 4rem);
-  }
-
-  @media (min-height: 600px) {
-    .responsive-h-screen {
-      height: calc(100dvh - 4rem);
-      min-height: 0;
-    }
-  }
 }
