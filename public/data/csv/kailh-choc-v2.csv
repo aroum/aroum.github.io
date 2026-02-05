@@ -1,54 +1,52 @@
-pic,Series,Name,Type,Operating Force,Tactile Force,Pre-Travel,Total Travel,Third Leg
-kailh/choc-v2/PG1353_choc_v2_blue.webp,Kailh,Blue (Black bottom),Click Tactile,55gf±10gf,60gf ±10gf,1.3mm±0.3mm,3.2mm±0.25mm,yes
-kailh/choc-v2/PG1353_choc_v2_red.webp,Kailh,Red(Black bottom),Linear,50gf±10gf,,1.3mm±0.3mm,3.2mm±0.25mm,yes
-kailh/choc-v2/PG1353_choc_v2_brown.webp,Kailh,Brown(Black bottom),Tactile,50gf±10gf,55gf ±10gf,1.3mm±0.3mm,3.2mm±0.25mm,yes
-kailh/choc-v2/PG1353_choc_v2_cream.webp,Kailh,Cream,Linear Silent,43gf±10gf,,1.2mm±0.3mm,2.8mm±0.5mm,yes
-kailh/choc-v2/PG1353_choc_v2_black.webp,Kailh,Black,Tactile Silent,45gf±10gf,55gf ±10gf,1.3mm±0.3mm,2.8mm±0.5mm,no
-kailh/choc-v2/PG1353_choc_v2_four_seasons_spring.webp,Four Seasons,Spring,Linear,40gf±10gf,,1.2mm±0.3mm,2.8mm±0.5mm,no
-kailh/choc-v2/PG1353_choc_v2_four_seasons_summer.webp,Four Seasons,Summer,Clicky,50gf±15gf,55gf±10gf,1.2mm±0.3mm,2.8mm±0.5mm,no
-kailh/choc-v2/PG1353_choc_v2_four_seasons_autumn.webp,Four Seasons,Autumn,Clicky,40gf±15gf,45gf±10gf,1.2mm±0.3mm,2.8mm±0.5mm,no
-kailh/choc-v2/PG1353_choc_v2_four_seasons_winter.webp,Four Seasons,Winter,Tactile,38gf±15gf,50gf±10gf,1.6mm±0.3mm,2.8mm±0.5mm,no
-kailh/choc-v2/PG1353_choc_v2_lofree_shadow_ghost.webp,Lofree Shadow,Ghost,Linear,50gf±10gf,,1.2mm±0.3mm,2.8mm±0.25mm,no
-kailh/choc-v2/PG1353_choc_v2_lofree_shadow_phantom.webp,Lofree Shadow,Phantom,Tactile,45gf±10gf,55gf±10gf,1.6mm±0.3mm,2.8mm±0.25mm,no
-kailh/choc-v2/PG1353_choc_v2_lofree_shadow_wizard.webp,Lofree Shadow,Wizard,Clicky,50gf±10gf,55gf±10gf,1.2mm±0.3mm,2.8mm±0.25mm,no
-kailh/choc-v2/PG1353_choc_v2_lofree_surfer.webp,Lofree,Surfer,Linear,40gf±10gf,,1.3mm±0.3mm,2.8mm±0.25mm,no
-kailh/choc-v2/PG1353_choc_v2_lofree_void.webp,Lofree,Void,Linear Silent,40gf±10gf,,1.3mm±0.3mm,2.8mm±0.25mm,no
-kailh/choc-v2/PG1353_choc_v2_lofree_pulse.webp,Lofree,Pulse,Tactile,40gf±10gf,???,1.6mm±0.3mm,2.8mm±0.25mm,no
-kailh/choc-v2/PG1353_choc_v2_lofree_specter.webp,Lofree,Specter,Linear,40gf±10gf,,1.2mm±0.3mm,2.8mm±0.25mm,no
-kailh/choc-v2/PG1353_choc_v2_lofree_hades.webp,Lofree,Hades,Linear,40gf±10gf,,1.3mm±0.3mm,2.8mm±0.25mm,no
-kailh/choc-v2/PG1353_choc_v2_raptor_black_kite.png,Raptor,Black Kite,Linear Silent,40gf±10gf,,1.2mm±0.3mm,1.8mm±0.3mm,no
-kailh/choc-v2/PG1353_choc_v2_raptor_purple_iris.webp,Raptor,Purple Iris,Linear Silent,30gf±10gf,,0.8mm±0.3mm,1.8mm±0.3mm,no
-kailh/choc-v2/PG1353_choc_v2_raptor_saker_mini.png,Raptor,Saker mini,Linear,37gf±10gf,,0.8mm±0.3mm,1.8mm±0.3mm,no
-kailh/choc-v2/PG1353_choc_v2_deep_sea_islet_pink.webp,Deep Sea,Islet Pink,Linear Silent,35gf±10gf,,1.3mm±0.3mm,2.8mm±0.25mm,no
-kailh/choc-v2/PG1353_choc_v2_deep_sea_island.webp,Deep Sea,Island,Linear Silent,43gf±10gf,,1.3mm±0.3mm,2.8mm±0.25mm,no
-kailh/choc-v2/PG1353_choc_v2_deep_sea_whale.webp,Deep Sea,Whale,Tactile Silent,45gf±10gf,55gf±10gf,1.3mm±0.3mm,2.8mm±0.25mm,no
-kailh/choc-v2/PG1353_choc_v2_haute42_wind_engine.webp,Cosmox,Wind Engine,Linear,43gf±10gf,,1.2mm±0.3mm,2.8mm±0.25mm,no
-kailh/choc-v2/PG1353_choc_v2_haute42_crystal.webp,Cosmox,Crystal,Linear,43gf±10gf,,1.2mm±0.3mm,3.2mm±0.25mm,no
-kailh/choc-v2/PG1353_choc_v2_haute42_shadow_hunting.webp,Cosmox,Shadow Hunting,Linear Silent,40gf±10gf,,0.8mm±0.3mm,2.8mm±0.25mm,no
-kailh/choc-v2/PG1353_choc_v2_elements_white_rain.webp,Elements,White Rain,Linear,50gf±10gf,,1.2mm±0.3mm,2.8mm±0.25mm,no
-kailh/choc-v2/PG1353_choc_v2_elements_black_cloud.webp,Elements,Black Cloud,Tactile,45gf±10gf,55gf±10gf,1.6mm±0.3mm,2.8mm±0.25mm,no
-kailh/choc-v2/PG1353_choc_v2_elements_hide_mountain.webp,Elements,Hide Mountain,Clicky,50gf±10gf,55gf±10gf,1.2mm±0.3mm,2.8mm±0.25mm,no
-kailh/choc-v2/PG1353_choc_v2_ice_cream_ice_cream.webp,Ice Cream,Ice Cream,Linear,40gf±8gf,,1.2mm±0.3mm,2.8mm±0.25mm,no
-kailh/choc-v2/PG1353_choc_v2_ice_cream_taro.webp,Ice Cream,Taro,Linear,37gf±10gf,,1.2mm±0.3mm,2.8mm±0.25mm,no
-kailh/choc-v2/PG1353_choc_v2_sgf_chimpomzee_red.jpg,SGF,ChimPOMzee Red,Linear Silent,50gf±15gf,,1.2mm±0.3mm,2.8mm±0.25mm,no
-kailh/choc-v2/PG1353_choc_v2_sgf_chimpomzee_brown.jpg,SGF,ChimPOMzee Brown,Tactile Silent,45gf±15gf,55gf±15gf,1.6mm±0.3mm,2.8mm±0.25mm,no
-kailh/choc-v2/PG1353_choc_v2_tikitaka_panda_axis_v1.jpg,Tikitaka,Panda Axis V1,Linear Silent,30gf±10gf,,1.2mm±0.3mm,2.8mm±0.25mm,no
-kailh/choc-v2/PG1353_choc_v2_tikitaka_panda_axis_v2.jpg,Tikitaka,Panda Axis V2,Tactile Silent,40gf±10gf,,0.8mm±0.3mm,2.8mm±0.25mm,no
-kailh/choc-v2/PG1353_choc_v2_comic_noise_silent_linear.jpg,Comic Noise,Silent Linear,Linear Silent,43gf±10gf,,1.2mm±0.3mm,2.8mm±0.25mm,no
-kailh/choc-v2/PG1353_choc_v2_comic_noise_silent_tactile.jpg,Comic Noise,Silent Tactile,Tactile Silent,55gf±10gf,???,1.2mm±0.3mm,2.8mm±0.25mm,no
-,Comic Noise,Kominoi Saiya,Linear,30gf±10gf,,1.2mm±0.3mm,2.8mm±0.25mm,no
-,Comic Noise,Kominoi Saiya Silent,Linear Silent,30gf±10gf,,1.2mm±0.3mm,2.8mm±0.25mm,no
-kailh/choc-v2/PG1353_choc_v2_fruit_durian.jpg,Fruit,Durian,Linear,40gf±10gf,,1.2mm±0.3mm,2.8mm±0.25mm,no
-kailh/choc-v2/PG1353_choc_v2_fruit_white_peach.jpg,Fruit,White Peach,Tactile,50gf±10gf,,1.6mm±0.3mm,2.8mm±0.25mm,no
-kailh/choc-v2/PG1353_choc_v2_fruit_avocadojpg.jpg,Fruit,Avocado,Clicky,45gf±10gf,,1.2mm±0.3mm,2.8mm±0.25mm,no
-kailh/choc-v2/PG1353_choc_v2_ghost_blood_amber.jpg,Ghost,Blood Amber,Linear,40gf±10gf,,0.8mm±0.3mm,1.9mm±0.3mm,no
-,RGB Crystal,Clicky Jellyfish ,Clicky,55gf±10gf,55gf±15gf,1.2mm±0.3mm,2.8mm±0.25mm,
-,RGB Crystal,Linear Jellyfish ,Linear,43gf±10gf,,1.2mm±0.3mm,3.2mm±0.25mm,
-,Israfel N²,Depth Charge,Linear,50gf±10gf,,1.2mm±0.3mm,2.8mm±0.25mm,
-,Israfel N²,Land Mine,Tactile,45gf±10gf,50gf±10gf,1.6mm±0.3mm,2.8mm±0.25mm,
-,Kailh,Sunlight Sunshine,Linear,50gf±10gf,,1.2mm±0.3mm,2.8mm±0.25mm,
-,Iqunix,Gold Red,Linear,40gf±10gf,,,,
-kailh/choc-v2/PG1353_choc_v2_kailh_glacial_silver.jpg,Kailh,Glacial Silver,Linear,40gf±10gf,,0.8mm±0.3mm,2.0mm±0.3mm,
-kailh/choc-v2/PG1353_choc_v2_blue_white.webp,Kailh,Blue (Black bottom),Click Tactile,55gf±10gf,60gf ±10gf,1.3mm±0.3mm,3.2mm±0.25mm,yes
-kailh/choc-v2/PG1353_choc_v2_red_white.webp,Kailh,Red(Black bottom),Linear,50gf±10gf,,1.3mm±0.3mm,3.2mm±0.25mm,yes
-kailh/choc-v2/PG1353_choc_v2_brown_white.webp,Kailh,Brown(Black bottom),Tactile,50gf±10gf,55gf ±10gf,1.3mm±0.3mm,3.2mm±0.25mm,yes
+pic,Series,Name,Type,Operating Force,Tactile Force,Pre-Travel,Total Travel,Third Leg,Plate Thickness
+kailh/choc-v2/PG1353_choc_v2_blue.webp,Kailh,Blue (Black bottom),Clicky,55±10gf,60±10gf,1.3±0.3mm,3.2±0.25mm,yes,1.6mm
+kailh/choc-v2/PG1353_choc_v2_brown.webp,Kailh,Brown(Black bottom),Tactile,50±10gf,55gf ±10gf,1.3±0.3mm,3.2±0.25mm,yes,1.6mm
+kailh/choc-v2/PG1353_choc_v2_red.webp,Kailh,Red(Black bottom),Linear,50±10gf,???,1.3±0.3mm,3.2±0.25mm,yes,1.6mm
+kailh/choc-v2/PG1353_choc_v2_blue_milky.webp,Kailh,Blue (Milky bottom),Clicky,55±10gf,60±10gf,1.3±0.3mm,3.2±0.25mm,no,???
+kailh/choc-v2/PG1353_choc_v2_brown_milky.webp,Kailh,Brown(Milky bottom),Tactile,50±10gf,55gf ±10gf,1.3±0.3mm,3.2±0.25mm,no,???
+kailh/choc-v2/PG1353_choc_v2_red_milky.webp,Kailh,Red(Milky bottom),Linear,50±10gf,???,1.3±0.3mm,3.2±0.25mm,no,???
+kailh/choc-v2/PG1353_choc_v2_ivory.webp,Kailh,Ivory,Linear Silent,43±10gf,???,1.2±0.3mm,2.8±0.5mm,no,1.35mm
+kailh/choc-v2/PG1353_choc_v2_black.webp,Kailh,Black?,Tactile Silent,45±10gf,55gf ±10gf,1.3±0.3mm,2.8±0.5mm,no,1.35mm
+kailh/choc-v2/PG1353_choc_v2_deep_sea_island.webp,Deep Sea,Island,Linear Silent,43±10gf,???,1.3±0.3mm,2.8±0.25mm,no,1.35mm
+kailh/choc-v2/PG1353_choc_v2_deep_sea_islet_pink.webp,Deep Sea,Islet Pink,Linear Silent,35±10gf,???,1.3±0.3mm,2.8±0.25mm,no,1.35mm
+kailh/choc-v2/PG1353_choc_v2_deep_sea_whale.webp,Deep Sea,Whale,Tactile Silent,45±10gf,55±10gf,1.3±0.3mm,2.8±0.25mm,no,1.35mm
+kailh/choc-v2/PG1353_choc_v2_raptor_black_kite.png,Raptor,Black Kite,Linear Silent,40±10gf,???,1.2±0.3mm,1.8±0.3mm,no,1.35mm
+kailh/choc-v2/PG1353_choc_v2_raptor_purple_iris.webp,Raptor,Purple Iris,Linear Silent,30±10gf,???,0.8±0.3mm,1.8±0.3mm,no,1.35mm
+kailh/choc-v2/PG1353_choc_v2_raptor_saker_mini.png,Raptor,Saker mini (FALCO),Linear,37±10gf,???,0.8±0.3mm,1.8±0.3mm,no,1.35mm
+kailh/choc-v2/PG1353_choc_v2_elements_white_rain.webp,Elements,White Rain,Linear,50±10gf,???,1.2±0.3mm,2.8±0.25mm,no,1.35mm
+kailh/choc-v2/PG1353_choc_v2_elements_hide_mountain.webp,Elements,Hide Mountain,Clicky,50±10gf,55±10gf,1.2±0.3mm,2.8±0.25mm,no,1.35mm
+kailh/choc-v2/PG1353_choc_v2_elements_black_cloud.webp,Elements,Black Cloud,Tactile,45±10gf,55±10gf,1.6±0.3mm,2.8±0.25mm,no,1.35mm
+kailh/choc-v2/PG1353_choc_v2_four_seasons_spring.webp,Four Seasons,Spring,Linear,40±10gf,???,1.2±0.3mm,2.8±0.5mm,no,1.35mm
+kailh/choc-v2/PG1353_choc_v2_four_seasons_summer.webp,Four Seasons,Summer,Clicky,50±15gf,55±10gf,1.2±0.3mm,2.8±0.5mm,no,1.35mm
+kailh/choc-v2/PG1353_choc_v2_four_seasons_autumn.webp,Four Seasons,Autumn,Clicky,40±15gf,45±10gf,1.2±0.3mm,2.8±0.5mm,no,1.35mm
+kailh/choc-v2/PG1353_choc_v2_four_seasons_winter.webp,Four Seasons,Winter,Tactile,38±15gf,50±10gf,1.6±0.3mm,2.8±0.5mm,no,1.35mm
+kailh/choc-v2/PG1353_choc_v2_ice_cream_ice_cream.webp,Ice Cream,Ice Cream,Linear,40±8gf,???,1.2±0.3mm,2.8±0.25mm,no,1.35mm
+kailh/choc-v2/PG1353_choc_v2_ice_cream_taro.webp,Ice Cream,Taro,Linear,37±10gf,???,1.2±0.3mm,2.8±0.25mm,no,1.35mm
+kailh/choc-v2/PG1353_choc_v2_lofree_shadow_wizard.webp,Lofree Shadow,Wizard,Clicky,50±10gf,55±10gf,1.2±0.3mm,2.8±0.25mm,no,1.35mm
+kailh/choc-v2/PG1353_choc_v2_lofree_shadow_ghost.webp,Lofree Shadow,Ghost,Linear,50±10gf,???,1.2±0.3mm,2.8±0.25mm,no,1.35mm
+kailh/choc-v2/PG1353_choc_v2_lofree_shadow_phantom.webp,Lofree Shadow,Phantom,Tactile,45±10gf,55±10gf,1.6±0.3mm,2.8±0.25mm,no,1.35mm
+kailh/choc-v2/PG1353_choc_v2_lofree_pulse.webp,Lofree,Pulse,Tactile,40±10gf,???,1.6±0.3mm,2.8±0.25mm,no,1.35mm
+kailh/choc-v2/PG1353_choc_v2_lofree_hades.webp,Lofree,Hades,Linear,40±10gf,???,1.3±0.3mm,2.8±0.25mm,no,1.35mm
+kailh/choc-v2/PG1353_choc_v2_lofree_specter.webp,Lofree,Specter,Linear,40±10gf,???,1.2±0.3mm,2.8±0.25mm,no,1.35mm
+kailh/choc-v2/PG1353_choc_v2_lofree_surfer.webp,Lofree,Surfer,Linear,40±10gf,???,1.3±0.3mm,2.8±0.25mm,no,1.35mm
+kailh/choc-v2/PG1353_choc_v2_lofree_void.webp,Lofree,Void,Linear Silent,40±10gf,???,1.3±0.3mm,2.8±0.25mm,no,1.35mm
+kailh/choc-v2/PG1353_choc_v2_сosmox_wind_engine.webp,Cosmox,Wind Engine,Linear,43±10gf,???,1.2±0.3mm,2.8±0.25mm,no,1.35mm
+kailh/choc-v2/PG1353_choc_v2_сosmox_crystal.webp,Cosmox,Crystal,Linear,43±10gf,???,1.2±0.3mm,3.2±0.25mm,no,1.35mm
+kailh/choc-v2/PG1353_choc_v2_сosmox_shadow_hunting.webp,Cosmox,Shadow Hunting,Linear Silent,40±10gf,???,0.8±0.3mm,2.8±0.25mm,no,1.35mm
+kailh/choc-v2/PG1353_choc_v2_fruit_durian.jpg,Fruit,Durian,Linear,40±10gf,???,1.2±0.3mm,2.8±0.25mm,no,1.35mm
+kailh/choc-v2/PG1353_choc_v2_fruit_white_peach.jpg,Fruit,White Peach,Tactile,50±10gf,???,1.6±0.3mm,2.8±0.25mm,no,1.35mm
+kailh/choc-v2/PG1353_choc_v2_fruit_avocadojpg.jpg,Fruit,Avocado,Clicky,45±10gf,???,1.2±0.3mm,2.8±0.25mm,no,1.35mm
+kailh/choc-v2/PG1353_choc_v2_ghost_blood_amber.jpg,Ghost,Blood Amber,Linear,40±10gf,???,0.8±0.3mm,1.9±0.3mm,no,1.35mm
+kailh/choc-v2/PG1353_choc_v2_sgf_chimpomzee_brown.jpg,SGF,ChimPOMzee Brown,Tactile Silent,45±15gf,55±15gf,1.6±0.3mm,2.8±0.25mm,no,1.35mm
+kailh/choc-v2/PG1353_choc_v2_sgf_chimpomzee_red.jpg,SGF,ChimPOMzee Red,Linear Silent,50±15gf,???,1.2±0.3mm,2.8±0.25mm,no,1.35mm
+kailh/choc-v2/PG1353_choc_v2_tikitaka_panda_axis_v1.jpg,Tikitaka,Panda Axis V1,Linear Silent,30±10gf,???,1.2±0.3mm,2.8±0.25mm,no,1.35mm
+kailh/choc-v2/PG1353_choc_v2_tikitaka_panda_axis_v2.jpg,Tikitaka,Panda Axis V2,Tactile Silent,40±10gf,???,0.8±0.3mm,2.8±0.25mm,no,1.35mm
+kailh/choc-v2/PG1353_choc_v2_kominoi_saiya.jpg,Kominoi,Saiya,Linear,30±10gf,???,1.2±0.3mm,2.8±0.25mm,no,1.35mm
+kailh/choc-v2/PG1353_choc_v2_kominoi_saiya_silent.jpg,Kominoi,Saiya Silent,Linear Silent,30±10gf,???,1.2±0.3mm,2.8±0.25mm,no,1.35mm
+kailh/choc-v2/PG1353_choc_v2_rgb_crystal_linear_jellyfish.jpg,RGB Crystal,Linear Jellyfish ,Linear,43±10gf,???,1.2±0.3mm,3.2±0.25mm,???,1.35mm
+kailh/choc-v2/PG1353_choc_v2_rgb_crystal_clicky_jellyfish.jpg,RGB Crystal,Clicky Jellyfish ,Clicky,55±10gf,55±15gf,1.2±0.3mm,2.8±0.25mm,???,1.35mm
+kailh/choc-v2/PG1353_choc_v2_switch_israfel_n2_land_mine.png,Israfel N²,Land Mine,Tactile,45±10gf,50±10gf,1.6±0.3mm,2.8±0.25mm,???,1.35mm
+kailh/choc-v2/PG1353_choc_v2_switch_israfel_n2_depth_charge.png,Israfel N²,Depth Charge,Linear,50±10gf,???,1.2±0.3mm,2.8±0.25mm,???,1.35mm
+kailh/choc-v2/PG1353_choc_v2_iqunix_gold_red.png,Iqunix,Gold Red,Linear,40±10gf,???,,,???,1.35mm
+kailh/choc-v2/PG1353_choc_v2_kailh_sunlight_sunshine.png,Kailh,Sunlight Sunshine,Linear,50±10gf,???,1.2±0.3mm,2.8±0.25mm,???,1.35mm
+kailh/choc-v2/PG1353_choc_v2_kailh_glacial_silver.jpg,Kailh,Glacial Silver,Linear,40±10gf,???,0.8±0.3mm,2.0±0.3mm,???,1.35mm
