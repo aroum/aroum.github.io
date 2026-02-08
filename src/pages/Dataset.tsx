@@ -126,28 +126,42 @@ export const DatasetView: React.FC = () => {
           Back to Datasets
         </button>
 
-        <div className="flex flex-col lg:flex-row lg:items-end lg:justify-between gap-6">
-          <div className="max-w-2xl">
-            <h1 className="text-3xl sm:text-4xl font-bold text-gray-900 dark:text-white mb-3 tracking-tight">
-              {dataset.name}
-            </h1>
-            <p className="text-lg text-gray-600 dark:text-gray-400 leading-relaxed">
+        <div className="flex flex-col lg:flex-row lg:items-end lg:justify-between gap-4 lg:gap-6">
+          <div className="w-full lg:max-w-2xl">
+            <div className="flex items-baseline justify-between gap-4 mb-3">
+              <h1 className="text-3xl sm:text-4xl font-bold text-gray-900 dark:text-white tracking-tight">
+                {dataset.name}
+              </h1>
+              {!loading && data && (
+                <div className="lg:hidden text-sm text-gray-500 dark:text-gray-400 whitespace-nowrap shrink-0">
+                  {filteredAndSortedData.rows.length} records
+                </div>
+              )}
+            </div>
+            <p className="text-lg text-gray-600 dark:text-gray-400 leading-relaxed max-w-2xl">
               {dataset.description}
             </p>
           </div>
 
-          <div className="w-full lg:w-auto min-w-[300px]">
-            <div className="relative group">
-              <div className="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none text-gray-400 group-focus-within:text-blue-500 transition-colors">
-                <SearchIcon />
+          <div className="flex items-center gap-4 w-full lg:w-auto">
+            {!loading && data && (
+              <div className="hidden lg:block text-sm text-gray-500 dark:text-gray-400 whitespace-nowrap">
+                {filteredAndSortedData.rows.length} records
               </div>
-              <input
-                type="text"
-                placeholder="Search records..."
-                value={search}
-                onChange={(e) => setSearch(e.target.value)}
-                className="block w-full pl-10 pr-4 py-2.5 border border-gray-300 dark:border-gray-700 rounded-xl bg-white dark:bg-gray-800 text-gray-900 dark:text-white placeholder-gray-500 focus:outline-none focus:ring-2 focus:ring-blue-500/50 focus:border-blue-500 transition-all shadow-sm"
-              />
+            )}
+            <div className="w-full lg:w-auto min-w-[300px]">
+              <div className="relative group">
+                <div className="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none text-gray-400 group-focus-within:text-blue-500 transition-colors">
+                  <SearchIcon />
+                </div>
+                <input
+                  type="text"
+                  placeholder="Search records..."
+                  value={search}
+                  onChange={(e) => setSearch(e.target.value)}
+                  className="block w-full pl-10 pr-4 py-2.5 border border-gray-300 dark:border-gray-700 rounded-xl bg-white dark:bg-gray-800 text-gray-900 dark:text-white placeholder-gray-500 focus:outline-none focus:ring-2 focus:ring-blue-500/50 focus:border-blue-500 transition-all shadow-sm"
+                />
+              </div>
             </div>
           </div>
         </div>
