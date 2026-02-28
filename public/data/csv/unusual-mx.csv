@@ -8,7 +8,7 @@ pic,name,description,type,link
 ,ProWorld MX clone,First MX switches to use a leaf spring clicking mechanism (found in vintage Alps/SMK/Omron).,MX,https://deskthority.net/wiki/ProWorld_Cherry_MX_clone
 ,Clickez,Modern ProWorld equivalent based on Cap stems.,MX,https://zealpc.net/products/clickiez?variant=39379354026048
 ,Gateron Melodic,Similar to Clickez but with a leaf spring at a nearly 90-degree angle; similar to KS-33.,MX,https://www.gateron.com/products/gateron-melodic-switch-set?VariantsId=10765
-,Aristotle MX clone,Clicky switches with "fangs"; recently recreated in Outemu Phoenix and TKC Blackberry. Only MX switches with >4mm travel.,MX,https://deskthority.net/wiki/Aristotle_Cherry_MX_clone
+,Aristotle MX clone,"Clicky switches with ""fangs""; recently recreated in Outemu Phoenix and TKC Blackberry. Only MX switches with >4mm travel.",MX,https://deskthority.net/wiki/Aristotle_Cherry_MX_clone
 ,Cherry MX Yellow,Linear switches where Aristotle stems were used in Cherry housings (often found in Chicony keyboards).,MX,https://deskthority.net/wiki/Aristotle_Yellow
 ,Hirose Cherry MX Pale Yellow,Yellow Cherry switches manufactured by a Japanese contractor.,MX,https://deskthority.net/wiki/Hirose_Cherry_MX_Pale_Yellow
 ,Cherry MX Alps Clear,MX Clear switches with an Alps Mount (likely not produced by Cherry).,MX,https://deskthority.net/wiki/Cherry_MX_Alps_Clear
@@ -16,7 +16,7 @@ pic,name,description,type,link
 ,Outemu Blue Switch (ALPs Mount),Similar to the MX Alps Click but produced by Outemu.,MX,https://mechbox.co.uk/products/outemu-blue-switch-alps-mount?variant=13958577389610
 ,Cherry MX White / Click Grey,Clicky switches that were allegedly lubed to act as tactile switches.,MX,https://deskthority.net/wiki/Cherry_MX_White
 ,Cherry MX Olympia Linear Clear,Modified housing shape causing the plate to mount higher.,MX,https://deskthority.net/wiki/Cherry_MX_Olympia_Linear_Clear
-,Cherry MX Lock,Features a "lock-in" / toggle mechanism.,MX,https://mechbox.co.uk/products/cherry-mx-lock-switch
+,Cherry MX Lock,"Features a ""lock-in"" / toggle mechanism.",MX,https://mechbox.co.uk/products/cherry-mx-lock-switch
 ,Kailh BOX,First MX switches with a shroud around the stem for dust protection (similar to Futaba MA/SMK).,MX,https://deskthority.net/wiki/Kailh_BOX
 ,Kailh Box Hush,Unique silent system with multiple dampeners; one completely covers the bottom.,MX,https://www.kailhswitch.com/mechanical-keyboard-switches/box-hush-switch-silent-v3.html
 ,Box Mute Jade,Silent clickbar switch design.,MX,https://www.theremingoat.com/blog/kailh-box-mute-jade-switch-review
@@ -28,7 +28,8 @@ pic,name,description,type,link
 ,Novelkeys Cream Arc,Features conical springs.,MX,https://www.theremingoat.com/blog/novelkeys-cream-arc-switch-review
 ,Novelkeys Cream Clickie,Linear clicky switch with a membrane-like mechanism similar to Futaba MA.,MX,https://www.theremingoat.com/blog/novelkeys-cream-clickie-switch-review
 ,Gateron North Pole 2.0,Features a soft insert at the base of the stem for a dampening effect.,MX,https://www.gateron.co/products/gateron-north-pole-switch-set
-,TTC Brother/Frozen Silent/Bluish White,Dampening inserts in the stem; Brother is the only mass-produced MX silent clicky switch.,MX,https://www.thockking.com/products/ttc-brother-clicky-switches
+,TTC Brother/Frozen Silent/Bluish White,Dampening inserts in the stem; Brother is the only mass-produced MX silent clicky switchwith a click jacket.,MX,https://www.thockking.com/products/ttc-brother-clicky-switches
+,TTC Brother v2/Frozen Silent v2/Bluish White v2,Dampening inserts in the stem; Brother is the only mass-produced MX silent clicky switch with a click bar.,MX,https://ttcswitches.com/products/ttc-brother-v2-tactile-switch-clicky
 ,TTC Tiger,Features a multi-component stem and housing.,MX,https://www.theremingoat.com/blog/ttc-tiger-switch-review
 ,ROLLER LINEAR SWITCHES (Ball Bearing Switches),Utilizes steel ball bearings for smooth travel (includes Wuque Studio Pearl and X-ray Roller).,MX,https://kbdfans.com/products/roller-linear-switches
 ,MK Dose,Features two contact groups.,MX,https://switchoddities.com/products/mk-dose
@@ -39,3 +40,4 @@ pic,name,description,type,link
 ,TECSEE Medium,Midprofile switches with 2.2mm total travel.,midprofile,https://chosfox.com/products/tecsee-medium-switch
 ,GTMX Mid Profile (Gazzew Outemu),Midprofile tactile and clicky switches with a consistent construction using an additional spring.,midprofile,https://www.reddit.com/r/MechanicalKeyboards/comments/p6amut/gtmx_low_profile_initial_impressions_on_a_new/
 ,HORI EDGE 201,Midprofile mechanical switch design.,midprofile,https://imgur.com/gallery/aQah9fA
+,,,,
