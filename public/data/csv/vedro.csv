@@ -18,7 +18,6 @@ pic,name,vendor,type,action
  ,Futaba MA-41 White Momentary clicky MX Mount,Futaba,Futaba MA,Clicky
  ,Gateron KS-33 Aloe,Gateron,GLP 2.0,
  ,Gateron KS-33 Blue (black bottom),Gateron,GLP 2.0,Clicky
- ,Gateron KS-33 Blue (milky bottom),Gateron,GLP 2.0,Clicky
  ,Gateron KS-33 Brown (milky bottom),Gateron,GLP 2.0,Tactile
  ,Gateron KS-33 Red (black bottom),Gateron,GLP 2.0,Linear
  ,Gateron KS-33 Red (milky bottom),Gateron,GLP 2.0,Linear
@@ -56,8 +55,7 @@ pic,name,vendor,type,action
  ,Kailh Choc V2 Fruit White Peach,Kailh,Choc V2,
  ,Kailh Choc V2 Lofree Shadow Ghost,Kailh,Choc V2,
  ,Kailh Choc V2 Raptor Saker mini (FALCO)	,Kailh,Choc V2,
- ,Raptor Purple Iris,Kailh,Choc V2,
- ,winter mini,Kailh,Choc V2,
+ ,Kailh Choc V2 Raptor Purple Iris,Kailh,Choc V2,
  ,Mitsumi Miniature Mechanical Yellow Cherry MX Mount Tactile,Mitsumi,MMM,Tactile
  ,Mitsumi Miniature Mechanical Green Cherry MX Mount Tactile,Mitsumi,MMM,Tactile
  ,Mitsumi Standard Mechanical Type 2 Alps mount Tactile,Mitsumi,MSM,Tactile
