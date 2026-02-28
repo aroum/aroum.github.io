@@ -6,64 +6,71 @@ pic,name,vendor,type,action
  ,Alps SKFL,Alps,Alps,
  ,Green Linear Alps Clone,Unknown,Alps,
  ,Kailh Sun Clicky,Kailh,Alps,
+ ,Omron B3G-S Amber Clicky,Omron,B3G-S,Clicky
+ ,Omron B3G-S White Heavy Clicky,Omron,B3G-S,Clicky
+ ,Omron B3G-S White Linear,Omron,B3G-S,Linear
+ ,Omron B3G-S White Tactile,Omron,B3G-S,Tactile
+ ,Unknown Omron B3G-S Clone Black,Unknown,B3G-S,Tactile
+ ,Unknown Omron B3G-S Clone White,Unknown,B3G-S,Clicky
  ,Consul 259.6,Consul,Consul,Linear
  ,Consul 262.3,Consul,Consul,Linear
  ,Futaba MA-41 White Momentary clicky Futaba Mount,Futaba,Futaba MA,Clicky
  ,Futaba MA-41 White Momentary clicky MX Mount,Futaba,Futaba MA,Clicky
-,Gateron KS-33 Aloe,Gateron,Gateron LP 2.0,
-,Gateron KS-33 Blue (black bottom),Gateron,Gateron LP 2.0,
-,Gateron KS-33 Blue (black bottom) Clicky,Gateron,Gateron LP 2.0,
-,Gateron KS-33 Blue (milky bottom),Gateron,Gateron LP 2.0,
-,Gateron KS-33 Brown (milky bottom),Gateron,Gateron LP 2.0,
-,Gateron KS-33 Red (black bottom),Gateron,Gateron LP 2.0,
-,Gateron KS-33 Red (milky bottom),Gateron,Gateron LP 2.0,
-,Gateron KS-33 Silent Brown 2.0,Gateron,Gateron LP 2.0,Tactile
-,Gateron KS-33 Silent Red 2.0,Gateron,Gateron LP 2.0,
-,Gateron KS-33 Silver,Gateron,Gateron LP 2.0,
-,Gateron KS-33 Wisteria,Gateron,Gateron LP 2.0,Tactile
-,Gateron KS-33 Blush Nano,Gateron,Gateron LP 3.0,
-,Gateron KS-33 Brown Nano,Gateron,Gateron LP 3.0,
-,Gateron KS-33 Grey heron,Gateron,Gateron LP 3.0,
- ,HI-TEK 725 Black Clicky Gen 4-5 (2 глаза),NMB,HI-TEK 725,
- ,HI-TEK 725 Green Linear Gen 3-5 (глаза сложной формы),NMB,HI-TEK 725,
- ,HI-TEK 725 Purple Linear Gen 2-4 (1 глаз),NMB,HI-TEK 725,
- ,HI-TEK 725 White Linear Gen 1 (1 глаз),NMB,HI-TEK 725,
- ,HI-TEK 725 White Linear Gen 3-5 (глаза сложной формы),NMB,HI-TEK 725,
- ,HI-TEK 725 White Linear Gen 3-5 (прямоугольные глаза),NMB,HI-TEK 725,
-,Kailh Choc V1 Dark Yellow,Kailh,Kailh Choc V1,
-,Kailh Choc V1 Pink,Kailh,Kailh Choc V1,
- ,Kailh Choc V1 Red Linear,Kailh,Kailh Choc V1,
-,Kailh Choc V1 Sunset,Kailh,Kailh Choc V1,
- ,Kailh Choc V1 Twilight Silent Linear,Kailh,Kailh Choc V1,
-,Aula f2090 (choc v1 OEM),K?,Kailh Choc V1 (OEM),
-,Kailh Choc V2 Brown(Black bottom),Kailh,Kailh Choc V2,
-,Kailh Choc V2 Deep Sea Island,Kailh,Kailh Choc V2,
-,Kailh Choc V2 Deep Sea Islet Pink,Kailh,Kailh Choc V2,
-,Kailh Choc V2 Deep Sea Whale,Kailh,Kailh Choc V2,
-,Kailh Choc V2 Elements Black Cloud,Kailh,Kailh Choc V2,
-,Kailh Choc V2 Elements Hide Mountain,Kailh,Kailh Choc V2,
-,Kailh Choc V2 Elements White Rain,Kailh,Kailh Choc V2,
-,Kailh Choc V2 Four Seasons Autumn,Kailh,Kailh Choc V2,
-,Kailh Choc V2 Four Seasons Spring,Kailh,Kailh Choc V2,
-,Kailh Choc V2 Four Seasons Summer,Kailh,Kailh Choc V2,
-,Kailh Choc V2 Four Seasons Winter,Kailh,Kailh Choc V2,
-,Kailh Choc V2 Fruit Durian,Kailh,Kailh Choc V2,
-,Kailh Choc V2 Fruit White Peach,Kailh,Kailh Choc V2,
-,Kailh Choc V2 Lofree Shadow Ghost,Kailh,Kailh Choc V2,
-,Kailh Choc V2 Raptor Saker mini (FALCO)	,Kailh,Kailh Choc V2,
-,Raptor Purple Iris,Kailh,Kailh Choc V2,
-,winter mini,Kailh,Kailh Choc V2,
- ,Mitsumi miniature mechanical Yellow Cherry MX Mount Tactile,Mitsumi,Mitsumi,
- ,Mitsumi standard mechanical Type 2 Alps mount Tactile,Mitsumi,Mitsumi,
- ,Mitsumi standard mechanical Type 2 Mitsumi mount Tactile,Mitsumi,Mitsumi,
+ ,Gateron KS-33 Aloe,Gateron,GLP 2.0,
+ ,Gateron KS-33 Blue (black bottom),Gateron,GLP 2.0,Clicky
+ ,Gateron KS-33 Blue (milky bottom),Gateron,GLP 2.0,Clicky
+ ,Gateron KS-33 Brown (milky bottom),Gateron,GLP 2.0,Tactile
+ ,Gateron KS-33 Red (black bottom),Gateron,GLP 2.0,Linear
+ ,Gateron KS-33 Red (milky bottom),Gateron,GLP 2.0,Linear
+ ,Gateron KS-33 Silent Brown 2.0,Gateron,GLP 2.0,Tactile
+ ,Gateron KS-33 Silent Red 2.0,Gateron,GLP 2.0,Linear
+ ,Gateron KS-33 Silver,Gateron,GLP 2.0,
+ ,Gateron KS-33 Wisteria,Gateron,GLP 2.0,Tactile
+ ,Gateron KS-33 Blush Nano,Gateron,GLP 3.0,
+ ,Gateron KS-33 Brown Nano,Gateron,GLP 3.0,
+ ,Gateron KS-33 Grey heron,Gateron,GLP 3.0,
+ ,"HI-TEK 725 Black Jet Stream	(2 eyes, a2,logo 1, h2)",NMB,HI-TEK 725,Clicky
+ ,"HI-TEK 725 Green Jet Stream	(2 eyes, a2,no logo, h2)",NMB,HI-TEK 725,Linear
+ ,HI-TEK 725 Purple Linear,NMB,HI-TEK 725,Linear
+ ,"HI-TEK 725 White Gundam (1 eye, round, logo 1, h1)",NMB,HI-TEK 725,Linear
+ ,"HI-TEK 725 White Jet Stream (2 eyes, a1, logo 2, h1)",NMB,HI-TEK 725,Linear
+ ,"HI-TEK 725 White Jet Stream(2 eyes, a2, no, h2)",NMB,HI-TEK 725,Linear
+ ,Kailh Choc V1 Dark Yellow,Kailh,Choc V1,
+ ,Kailh Choc V1 Pink,Kailh,Choc V1,
+ ,Kailh Choc V1 Red Linear,Kailh,Choc V1,
+ ,Kailh Choc V1 Sunset,Kailh,Choc V1,
+ ,Kailh Choc V1 Twilight Silent Linear,Kailh,Choc V1,
+ ,Aula f2090 (choc v1 OEM),K?,Choc V1 (OEM),
+ ,Kailh Choc V2 Brown(Black bottom),Kailh,Choc V2,
+ ,Kailh Choc V2 Deep Sea Island,Kailh,Choc V2,
+ ,Kailh Choc V2 Deep Sea Islet Pink,Kailh,Choc V2,
+ ,Kailh Choc V2 Deep Sea Whale,Kailh,Choc V2,
+ ,Kailh Choc V2 Elements Black Cloud,Kailh,Choc V2,
+ ,Kailh Choc V2 Elements Hide Mountain,Kailh,Choc V2,
+ ,Kailh Choc V2 Elements White Rain,Kailh,Choc V2,
+ ,Kailh Choc V2 Four Seasons Autumn,Kailh,Choc V2,
+ ,Kailh Choc V2 Four Seasons Spring,Kailh,Choc V2,
+ ,Kailh Choc V2 Four Seasons Summer,Kailh,Choc V2,
+ ,Kailh Choc V2 Four Seasons Winter,Kailh,Choc V2,
+ ,Kailh Choc V2 Fruit Durian,Kailh,Choc V2,
+ ,Kailh Choc V2 Fruit White Peach,Kailh,Choc V2,
+ ,Kailh Choc V2 Lofree Shadow Ghost,Kailh,Choc V2,
+ ,Kailh Choc V2 Raptor Saker mini (FALCO)	,Kailh,Choc V2,
+ ,Raptor Purple Iris,Kailh,Choc V2,
+ ,winter mini,Kailh,Choc V2,
+ ,Mitsumi Miniature Mechanical Yellow Cherry MX Mount Tactile,Mitsumi,MMM,Tactile
+ ,Mitsumi Miniature Mechanical Green Cherry MX Mount Tactile,Mitsumi,MMM,Tactile
+ ,Mitsumi Standard Mechanical Type 2 Alps mount Tactile,Mitsumi,MSM,Tactile
+ ,Mitsumi Standard Mechanical Type 2 Mitsumi mount Tactile,Mitsumi,MSM,Tactile
  ,Akko Pink V1,Akko,MX,
  ,Akko V1 Purple,Akko,MX,
- ,Cherry MX Black (2003),Cherry,MX,
- ,Cherry MX Purple,Cherry,MX,
+ ,Cherry MX Black (2003),Cherry,MX,Tactile
+ ,Cherry MX Purple,Cherry,MX,Linear
+ ,Cherry MX Clear,Cherry,MX,Linear
  ,Cherry MX Red,Cherry,MX,Linear
- ,Cherry MX White,Cherry,MX,
+ ,Cherry MX White,Cherry,MX,Clicky
  ,EZKB GAZZEW Boba BLACK U4 Silent Tactile,GAZZEW,MX,
- ,Fl.CMMK Pink,Fl.CMMK,MX,
+ ,Fl.CMMK Pink,Fl.CMMK,MX,Tactile
  ,Gateron Clear,Gateron,MX,
  ,Gateron Melodic,Gateron,MX,Clicky
  ,Gateron Milky Yellow,Gateron,MX,
@@ -96,13 +103,12 @@ pic,name,vendor,type,action
  ,ZealPC Clickiez 40G,ZealPC,MX,
  ,ZealPC Zealio V2 Switches (Tactile) 62G,ZealPC,MX,
  ,Дарк Проджект: g3ms Onyx v2,Дарк Проджект,MX,
-,MK Dose,Kailh,MX x2,
- ,Omron B3G-S Amber Clicky,Omron,Omron,Clicky
- ,Omron B3G-S White Tactile,Omron,Omron,
-,HUANO Turquoise Stone,HUANO,Other,
+ ,MK Dose,Kailh,MX x2,
+ ,NEC Oval Blue,NEC,NEC Oval,Clicky
+ ,NEC Oval White,NEC,NEC Oval,Linear
+ ,HUANO Turquoise Stone,HUANO,Other,
  ,Cherry MY,Cherry,Others,
  ,NEC oval White Linear,NEC,Others,
- ,Unknown Omron B3G-S Clone,Unknown,Others,
  ,ПКт -111-1,Unknown,Others,
- ,"SMK gen 2 ""Monterey"" Alps mount Clicky",SMK,SMK,
- ,SMK gen 2 inverse cross mount White Tactile,SMK,SMK,
+ ,"SMK gen 2 ""Monterey"" Alps mount ",SMK,SMK,Clicky
+ ,SMK gen 2 inverse cross mount White,SMK,SMK,Tactile
