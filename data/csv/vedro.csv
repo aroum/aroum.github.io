@@ -110,3 +110,5 @@ pic,name,vendor,type,action
  ,ПКт -111-1,Unknown,Others,
  ,"SMK gen 2 ""Monterey"" Alps mount ",SMK,SMK,Clicky
  ,SMK gen 2 inverse cross mount White,SMK,SMK,Tactile
+,OMRON Romer-G B3K-T13-L Blue,Omron,Romer-G B3K,Tactile
+,OMRON Romer-G B3K-L13L Grey,Omron,Romer-G B3K,Linear
