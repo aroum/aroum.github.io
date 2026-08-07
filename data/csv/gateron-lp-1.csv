@@ -1,0 +1,4 @@
+pic,Name,Operating Force,End Force,Type,Bottom,Top,Stem,Links
+/data/pics/gateron/glp_1/glp_1_red.png,Red,50±15gf,70±5gf,linear,black,transparent,red,
+/data/pics/gateron/glp_1/glp_1_brown.png,Brown,55±15gf,75±5gf,tactile,black,transparent,brown,
+/data/pics/gateron/glp_1/glp_1_blue.png,Blue,65±15gf,75±5gf,clicky,black,transparent,blue,
