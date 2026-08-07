@@ -53,6 +53,13 @@ export const DATASETS: DatasetConfig[] = [
     category: "Literature",
   },
   {
+    id: "gateron-lp-1",
+    name: "Gateron Low Profile 1.0 (KS-27)",
+    description: "Gateron Low Profile 1.0 (KS-27) switches.",
+    filename: "gateron-lp-1.csv",
+    category: "Gateron",
+  },
+  {
     id: "hi-tek-725",
     name: "Hi-Tek Series 725 Switches",
     description:
