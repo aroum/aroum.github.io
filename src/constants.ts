@@ -34,7 +34,7 @@ export const DATASETS: DatasetConfig[] = [
     name: "My Colection of Swithes",
     description: "My Colection of Swithes",
     filename: "vedro.csv",
-    category: "Swithes",
+    category: "Colection",
   },
   {
     id: "typewriter-keycaps",
@@ -42,7 +42,7 @@ export const DATASETS: DatasetConfig[] = [
     description:
       "List of typewriters whose keycaps can be used in mechanical keyboards.",
     filename: "typewriter-keycaps.csv",
-    category: "Inventory",
+    category: "Retro",
   },
   {
     id: "unusual-mx",
@@ -50,7 +50,7 @@ export const DATASETS: DatasetConfig[] = [
     description:
       "A collection of unusual MX switches with unique characteristics.",
     filename: "unusual-mx.csv",
-    category: "Literature",
+    category: "Colection",
   },
   {
     id: "gateron-lp-1",
@@ -65,6 +65,13 @@ export const DATASETS: DatasetConfig[] = [
     description:
       "Based on https://deskthority.net/wiki/Hi-Tek_Series_725 and https://wiki.vintkeys.ca/NMB/Switches",
     filename: "hi-tek-725.csv",
-    category: "Education",
+    category: "Retro",
+  },
+  {
+    id: "omron-b3k",
+    name: "Omron B3K Switches",
+    description: "Omron B3K switches, including Logitech Romer-G variants.",
+    filename: "omron-b3k.csv",
+    category: "Retro",
   },
 ];
