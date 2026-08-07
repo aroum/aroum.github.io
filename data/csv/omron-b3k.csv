@@ -1,0 +1,11 @@
+pic,model,series,stem color,top color,bottom color,type,pretravel,travel,oper. force,tactile force,lifetime,Notes
+,B3K-T13L,Logitech Romer-G,White,Blue,Black,Tactile damped,1.5 mm,3.2 mm,45 gf,-,70 M,-
+,B3K-T13LN-L,Logitech Romer-G,White,Black,Black,Tactile,1.5 mm,3.2 mm,45 gf,-,-,"Salvaged from a Logitech G413; there is no light guide present, even though the G413 is a backlit model"
+,B3K-T13L2,Logitech Romer-G,White,Black,Black,Tactile,1.5 mm,3.3 mm,45 gf,55 gf,-,"Mk II switch, with the damping prongs removed from the mould; factory lubricated"
+,B3K-T13L-L,Logitech Romer-G,White,Black,Black,Tactile,1.5 mm,3.3 mm,45 gf,55 gf,-,"Received in the same order from China as B3K-T13L2, and the two types appear to be identical otherwise"
+,B3K-L13L,Logitech Romer-G,Grey,Black,Black,Linear,1.5 mm,3.3 mm,45 gf,-,-,"Linear version, also without the damping prongs; factory lubricated"
+,B3K-L135,Omron standard,Grey,Black,Black,Linear,1.5 mm,3.3 mm,45 gf,-,-,Listed in Omron Product Code Change AMP-Z-2007029; Creative PRES seems to be a generic B3K-T135 model.
+,B3K-T135-L,Omron standard,White,Black,Black,Linear,1.5 mm,3.3 mm,45 gf,-,-,Listed in Omron Product Code Change AMP-Z-2007029; Creative PRES seems to be a generic B3K-T135 model.
+,B3K-T135,Unclear,Clear,Clear,White,Tactile,1.5 mm,3.5 mm,45 gf,-,70 M,Listed in Omron Product Code Change AMP-Z-2007029; Creative PRES seems to be a generic B3K-T135 model.
+,B3K-T135C,Unclear,Clear,Clear,White,Tactile,1.5 mm,3.5 mm,45 gf,-,-,Listed in Omron Product Code Change AMP-Z-2007029; Creative PRES seems to be a generic B3K-T135 model.
+,B3K-T135M,Das Keyboard Gamma Zulu,Grey,Black,Black,Tactile,1.5 mm,3.5 mm,45 gf,-,100 M,-
