@@ -32,10 +32,9 @@ export default function App() {
   return (
     <Router>
       <div className="min-h-screen bg-gray-50 dark:bg-gray-950 text-gray-900 dark:text-gray-100 transition-colors duration-300 font-sans">
-        <Header darkMode={darkMode} toggleTheme={toggleTheme} />
         <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="/dataset/:id" element={<DatasetView />} />
+          <Route path="/" element={<><Header darkMode={darkMode} toggleTheme={toggleTheme} /><Home /></>} />
+          <Route path="/dataset/:id" element={<DatasetView darkMode={darkMode} toggleTheme={toggleTheme} />} />
         </Routes>
       </div>
     </Router>

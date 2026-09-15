@@ -95,7 +95,7 @@ export const DataTable: React.FC<DataTableProps> = ({ data, sortConfig, onSort }
     <>
       {previewImage && <ImagePreviewModal src={previewImage} onClose={() => setPreviewImage(null)} />}
 
-      <div className="w-full rounded-xl border border-gray-200 dark:border-gray-800 shadow-sm bg-white dark:bg-gray-900 flex flex-col h-[calc(100vh-14rem)] min-h-[500px]">
+      <div className="w-full rounded-xl border border-gray-200 dark:border-gray-800 shadow-sm bg-white dark:bg-gray-900 flex flex-col flex-1 min-h-[500px]">
         <div className="overflow-auto custom-scrollbar flex-1 rounded-xl">
           <table className="w-full text-sm text-left border-collapse relative">
             

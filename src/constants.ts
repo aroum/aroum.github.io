@@ -4,7 +4,7 @@ import { DatasetConfig } from './types';
 // 1. Place your .csv files in a folder named 'data' in your public directory.
 // 2. Add them to this list below.
 
-export const APP_TITLE = "Custom Keyboard Database";
+export const APP_TITLE = "Aroum's Keyboard DB";
 export const APP_DESCRIPTION = "Browse and analyze CSV-based data related to custom keyboards. Use search and filters to explore the dataset directly in your browser.";
 
 export const DATASETS: DatasetConfig[] = [

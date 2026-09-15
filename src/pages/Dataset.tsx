@@ -1,12 +1,17 @@
 import React, { useState, useEffect, useMemo } from 'react';
-import { useParams, useNavigate } from 'react-router-dom';
+import { useParams, useNavigate, Link } from 'react-router-dom';
 import Papa from 'papaparse';
 import { DATASETS } from '../constants';
 import { CsvData, SortConfig } from '../types';
 import { DataTable } from '../components/DataTable';
-import { ArrowLeftIcon, SearchIcon } from '../components/Icons';
+import { ArrowLeftIcon, SearchIcon, InfoIcon, SunIcon, MoonIcon, GithubIcon } from '../components/Icons';
 
-export const DatasetView: React.FC = () => {
+interface DatasetViewProps {
+  darkMode: boolean;
+  toggleTheme: () => void;
+}
+
+export const DatasetView: React.FC<DatasetViewProps> = ({ darkMode, toggleTheme }) => {
   const { id } = useParams<{ id: string }>();
   const navigate = useNavigate();
   const dataset = DATASETS.find((d) => d.id === id);
@@ -113,43 +118,62 @@ export const DatasetView: React.FC = () => {
     );
   }
 
+  const [showDescription, setShowDescription] = useState(false);
+
   return (
-    <main className="container mx-auto px-4 sm:px-6 lg:px-8 py-8 ">
-      <div className="mb-4 shrink-0">
-        <button
-          onClick={() => navigate('/')}
-          className="group inline-flex items-center gap-2 text-sm font-medium text-gray-500 hover:text-blue-600 dark:text-gray-400 dark:hover:text-blue-400 transition-colors mb-4 px-3 py-1.5 rounded-lg hover:bg-blue-50 dark:hover:bg-blue-900/20 -ml-3"
-        >
-          <div className="group-hover:-translate-x-1 transition-transform">
-            <ArrowLeftIcon />
-          </div>
-          Back to Datasets
-        </button>
+    <div className="flex flex-col h-screen overflow-hidden">
+      {/* Unified top bar */}
+      <header className="w-full border-b bg-white/80 backdrop-blur-md dark:bg-gray-950/80 dark:border-gray-800 transition-colors duration-300 shrink-0 z-20">
+        <div className="container mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between gap-2 sm:gap-4">
+          
+          {/* Left section: Akdb badge + Back arrow + Dataset Title + Spoiler info */}
+          <div className="flex items-center gap-2 sm:gap-3 min-w-0">
+            <Link 
+              to="/" 
+              className="h-9 px-3 rounded-xl bg-gradient-to-br from-blue-600 to-indigo-600 flex items-center justify-center text-white font-bold text-base sm:text-lg shadow-lg shadow-blue-500/20 hover:scale-105 transition-transform shrink-0"
+              title="Home"
+            >
+              Akdb
+            </Link>
 
-        <div className="flex flex-col lg:flex-row lg:items-end lg:justify-between gap-4 lg:gap-6">
-          <div className="w-full lg:max-w-2xl">
-            <div className="flex items-baseline justify-between gap-4 mb-3">
-              <h1 className="text-3xl sm:text-4xl font-bold text-gray-900 dark:text-white tracking-tight">
-                {dataset.name}
-              </h1>
-              {!loading && data && (
-                <div className="lg:hidden text-sm text-gray-500 dark:text-gray-400 whitespace-nowrap shrink-0">
-                  {filteredAndSortedData.rows.length} records
-                </div>
-              )}
-            </div>
-            <p className="text-lg text-gray-600 dark:text-gray-400 leading-relaxed max-w-2xl">
-              {dataset.description}
-            </p>
-          </div>
+            <button
+              onClick={() => navigate('/')}
+              className="p-2 rounded-xl text-gray-500 hover:text-blue-600 dark:text-gray-400 dark:hover:text-blue-400 hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors shrink-0 active:scale-95"
+              aria-label="Back to datasets"
+              title="Back to datasets"
+            >
+              <ArrowLeftIcon />
+            </button>
 
-          <div className="flex items-center gap-4 w-full lg:w-auto">
-            {!loading && data && (
-              <div className="hidden lg:block text-sm text-gray-500 dark:text-gray-400 whitespace-nowrap">
-                {filteredAndSortedData.rows.length} records
-              </div>
+            <h1 className="text-base sm:text-lg md:text-xl font-bold text-gray-900 dark:text-white tracking-tight truncate">
+              {dataset.name}
+            </h1>
+
+            {dataset.description && (
+              <button
+                onClick={() => setShowDescription(!showDescription)}
+                className={`p-1.5 rounded-lg text-sm transition-colors shrink-0 ${
+                  showDescription 
+                    ? 'bg-blue-100 text-blue-700 dark:bg-blue-900/40 dark:text-blue-300' 
+                    : 'text-gray-400 hover:text-gray-700 dark:hover:text-gray-200 hover:bg-gray-100 dark:hover:bg-gray-800'
+                }`}
+                aria-label="Toggle dataset description"
+                title={showDescription ? "Hide description" : "Show description"}
+              >
+                <InfoIcon />
+              </button>
             )}
-            <div className="w-full lg:w-auto min-w-[300px]">
+          </div>
+
+          {/* Right section: Record count + Search + GitHub + Theme toggle */}
+          <div className="flex items-center gap-2 sm:gap-3 shrink-0">
+            {!loading && data && (
+              <span className="hidden sm:inline-block text-xs sm:text-sm font-medium text-gray-500 dark:text-gray-400 whitespace-nowrap bg-gray-100 dark:bg-gray-800 px-2.5 py-1.5 rounded-xl">
+                {filteredAndSortedData.rows.length} records
+              </span>
+            )}
+
+            <div className="w-36 sm:w-56 md:w-64">
               <div className="relative group">
                 <div className="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none text-gray-400 group-focus-within:text-blue-500 transition-colors">
                   <SearchIcon />
@@ -159,13 +183,41 @@ export const DatasetView: React.FC = () => {
                   placeholder="Search records..."
                   value={search}
                   onChange={(e) => setSearch(e.target.value)}
-                  className="block w-full pl-10 pr-4 py-2.5 border border-gray-300 dark:border-gray-700 rounded-xl bg-white dark:bg-gray-800 text-gray-900 dark:text-white placeholder-gray-500 focus:outline-none focus:ring-2 focus:ring-blue-500/50 focus:border-blue-500 transition-all shadow-sm"
+                  className="block w-full pl-9 pr-3 py-1.5 text-xs sm:text-sm border border-gray-300 dark:border-gray-700 rounded-xl bg-white dark:bg-gray-800 text-gray-900 dark:text-white placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-blue-500/50 focus:border-blue-500 transition-all shadow-sm"
                 />
               </div>
             </div>
+
+            <a
+              href="https://github.com/aroum/aroum.github.io"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="p-2 rounded-full hover:bg-gray-100 dark:hover:bg-gray-800 text-gray-500 dark:text-gray-400 transition-all active:scale-95"
+              aria-label="GitHub Repository"
+            >
+              <GithubIcon />
+            </a>
+
+            <button
+              onClick={toggleTheme}
+              className="p-2 rounded-full hover:bg-gray-100 dark:hover:bg-gray-800 text-gray-500 dark:text-gray-400 transition-all active:scale-95"
+              aria-label="Toggle theme"
+            >
+              {darkMode ? <SunIcon /> : <MoonIcon />}
+            </button>
           </div>
         </div>
-      </div>
+
+        {/* Expandable spoiler description */}
+        {showDescription && dataset.description && (
+          <div className="border-t border-gray-100 dark:border-gray-800 bg-blue-50/50 dark:bg-gray-900/50 px-4 sm:px-6 lg:px-8 py-2.5 text-xs sm:text-sm text-gray-600 dark:text-gray-400 leading-relaxed animate-in fade-in-50 duration-200">
+            {dataset.description}
+          </div>
+        )}
+      </header>
+
+      {/* Main Table Content */}
+      <main className="container mx-auto px-4 sm:px-6 lg:px-8 py-4 flex-1 flex flex-col min-h-0 overflow-hidden">
 
       {loading ? (
         <div className="flex-1 flex items-center justify-center">
@@ -188,6 +240,7 @@ export const DatasetView: React.FC = () => {
           onSort={handleSort}
         />
       )}
-    </main>
+      </main>
+    </div>
   );
 };
