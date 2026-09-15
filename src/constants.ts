@@ -11,30 +11,30 @@ export const DATASETS: DatasetConfig[] = [
   {
     id: "kailh-choc-mini",
     name: "Kailh Choc Mini (PG1232)",
-    description: ".",
+    description: "Kailh low-profile Choc Mini PG1232 switches specifications.",
     filename: "kailh-choc-mini.csv",
     category: "Kailh",
   },
   {
     id: "kailh-choc-v1",
     name: "Kailh Choc V1 (PG1350)",
-    description: "",
+    description: "Kailh low-profile Choc V1 PG1350 mechanical switches dataset.",
     filename: "kailh-choc-v1.csv",
     category: "Kailh",
   },
   {
     id: "kailh-choc-v2",
     name: "Kailh Choc V2 (PG1353)",
-    description: ".",
+    description: "Kailh low-profile Choc V2 PG1353 switches specifications and variants.",
     filename: "kailh-choc-v2.csv",
     category: "Kailh",
   },
   {
     id: "vedro",
-    name: "My Colection of Swithes",
-    description: "My Colection of Swithes",
+    name: "My Collection of Switches",
+    description: "Personal switch collection database with acquisition dates and specs.",
     filename: "vedro.csv",
-    category: "Colection",
+    category: "Collection",
   },
   {
     id: "typewriter-keycaps",
@@ -50,7 +50,7 @@ export const DATASETS: DatasetConfig[] = [
     description:
       "A collection of unusual MX switches with unique characteristics.",
     filename: "unusual-mx.csv",
-    category: "Colection",
+    category: "Collection",
   },
   {
     id: "gateron-lp-1",
