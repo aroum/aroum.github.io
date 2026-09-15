@@ -2,8 +2,6 @@ pic,name,vendor,type,action,date
 ,"SMK gen 2 ""Monterey"" Alps mount ",SMK,SMK,Clicky,26.03.16
 ,SMK gen 2 inverse cross mount White,SMK,SMK,Tactile,26.03.16
 ,Alps SKFL,Alps,SKFL,,26.03.16
-,,,,,
----,---,---,---,---,
 ,??,Alps,SKCM/SKCL,Tactile,26.06.28
 ,??,Alps,SKCM/SKCL,Linear,26.06.28
 ,Alps SKCL Grey,Alps,SKCM/SKCL,Linear,26.06.28
@@ -29,8 +27,6 @@ pic,name,vendor,type,action,date
 ,Alps SKCL White without click leaf,Alps,SKCM/SKCL,Linear,26.06.28
 ,Alps SKCM Orange,Alps,SKCM/SKCL,Tactile,26.03.16
 ,Alps SKCL White,Alps,SKCM/SKCL,Clicky,26.06.28
----,---,---,---,---,
-,,,,,
 ,Omron Romer-G B3K-L13L Grey,Omron,Romer-G B3K,Linear,26.03.16
 ,Omron Romer-G B3K-T13-L Blue,Omron,Romer-G B3K,Tactile,26.03.16
 ,Cherry MY,Cherry,Others,Linear,26.03.16

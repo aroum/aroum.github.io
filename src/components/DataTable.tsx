@@ -46,7 +46,10 @@ export const DataTable: React.FC<DataTableProps> = ({ data, sortConfig, onSort }
     const content = row[header];
 
     if (header === 'pics' || header === 'pic') {
-      const src = getImgSrc(content);
+      if (!content || !content.trim()) {
+        return null;
+      }
+      const src = getImgSrc(content.trim());
       return (
         <div className="h-24 w-auto overflow-hidden rounded-lg shadow-sm border border-gray-100 dark:border-gray-700 cursor-pointer group">
           <img 
