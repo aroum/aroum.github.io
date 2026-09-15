@@ -51,11 +51,11 @@ export const DataTable: React.FC<DataTableProps> = ({ data, sortConfig, onSort }
       }
       const src = getImgSrc(content.trim());
       return (
-        <div className="h-24 w-auto overflow-hidden rounded-lg shadow-sm border border-gray-100 dark:border-gray-700 cursor-pointer group">
+        <div className="h-20 w-20 flex items-center justify-center bg-white dark:bg-gray-800 overflow-hidden rounded-lg shadow-sm border border-gray-100 dark:border-gray-700 cursor-pointer group shrink-0">
           <img 
              src={src} 
              alt={row['name'] || 'Image'} 
-             className="h-full w-auto object-cover group-hover:scale-105 transition-transform duration-300"
+             className="max-h-full max-w-full object-contain p-1 group-hover:scale-105 transition-transform duration-300"
              onClick={() => setPreviewImage(src)}
              onError={(e) => {
                const target = e.target as HTMLImageElement;
